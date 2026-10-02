@@ -1,2 +1,2 @@
 # milanimelville.github.io
-Web Programming Exercise 2
+Web Programming Exercises
